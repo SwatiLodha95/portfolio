@@ -1,0 +1,48 @@
+.navbar-brand {
+    color: yellow !important;
+}
+
+
+
+
+.active {
+    color: yellowgreen !important;
+}
+
+.headerleft img {
+    border-radius: 10rem;
+    height: 55vh;
+    width: 25vw;
+
+}
+
+.headerleft img:hover {
+    transform: rotate(-20deg);
+    transition: all ease .4s;
+}
+
+.card1:hover {
+    margin-top: -2rem;
+    box-shadow: 10px 10px 15px gray;
+    transition: all ease .4s
+}
+
+.card1 {
+    overflow-y: scroll;
+    height: 40vh;
+}
+
+.skillcenter {
+    margin-top: -2rem;
+    align-items: center;
+    height: 80vh;
+}
+
+.headerleft1 img {
+    height: 55vh;
+    width: 25vw;
+
+}
+header1{
+    background-color: aqua;
+}
